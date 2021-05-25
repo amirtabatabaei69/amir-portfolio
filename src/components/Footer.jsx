@@ -10,12 +10,12 @@ export class Footer extends Component {
           <p>Created By Amir 2021</p>
           <ul>
             <li>
-              <a href="https://www.linkedin.com/in/amir-taba-825223167/">
+              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/amir-taba-825223167/">
                 Linkedin
               </a>
             </li>
             <li>
-              <a href="github.com/amirtabatabaei69">Github</a>
+              <a target="_blank" rel="noreferrer" href="github.com/amirtabatabaei69">Github</a>
             </li>
           </ul>
         </div>
