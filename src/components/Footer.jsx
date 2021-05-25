@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+
 import "./Footer.styles.scss";
 
 export class Footer extends Component {
@@ -10,10 +10,12 @@ export class Footer extends Component {
           <p>Created By Amir 2021</p>
           <ul>
             <li>
-              <Link to="/">Linkedin</Link>
+              <a href="https://www.linkedin.com/in/amir-taba-825223167/">
+                Linkedin
+              </a>
             </li>
             <li>
-              <Link to="/">Github</Link>
+              <a href="github.com/amirtabatabaei69">Github</a>
             </li>
           </ul>
         </div>
