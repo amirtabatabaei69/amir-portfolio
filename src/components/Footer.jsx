@@ -15,7 +15,7 @@ export class Footer extends Component {
               </a>
             </li>
             <li>
-              <a target="_blank" rel="noreferrer" href="github.com/amirtabatabaei69">Github</a>
+              <a target="_blank" rel="noreferrer" href="https://www.github.com/amirtabatabaei69">Github</a>
             </li>
           </ul>
         </div>
